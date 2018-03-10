@@ -1,0 +1,82 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] D:\ApplicationCache\AVD\.android\build-cache\821f8b1e31f190f61cc57a4282c7d6550532bede\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\52540a4fd51a01e4c08be1283a45818e1e796d7d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\e1c68809c24dc83281bb4c54a0bb177ae70836a5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\f89d3036bf9fab61ba383349113161294f87c393\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\35895729fd584c6d2244cf6ac95cb34694fb5740\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\815c53de96b0198322fad9bbfd96b55bba9b5db2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\8c16bd21c29d3a0a875d2b5a57b878624fd58009\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\276cea112fdbfed411261b508fb111aeeb96c40e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\0c2f14ba5e77ca002148412f84e536651f263170\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\e5d1ed23a5e1410ced994961529493f69eadee52\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\a559bb3a2926d702a31a9b2a00fcd57ace8ab007\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.lxvoice.domain.MainActivity
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:11:9-20:20
+	android:label
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:13:13-45
+	android:theme
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.lxvoice.domain.EditBookActivity
+ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml:21:19-51
+uses-sdk
+INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha9] D:\ApplicationCache\AVD\.android\build-cache\821f8b1e31f190f61cc57a4282c7d6550532bede\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\52540a4fd51a01e4c08be1283a45818e1e796d7d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\e1c68809c24dc83281bb4c54a0bb177ae70836a5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\f89d3036bf9fab61ba383349113161294f87c393\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\35895729fd584c6d2244cf6ac95cb34694fb5740\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\815c53de96b0198322fad9bbfd96b55bba9b5db2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\8c16bd21c29d3a0a875d2b5a57b878624fd58009\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\276cea112fdbfed411261b508fb111aeeb96c40e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\0c2f14ba5e77ca002148412f84e536651f263170\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\183c7bd80e8de9ffaeaa9173e1ce8a2447d16c3f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\e5d1ed23a5e1410ced994961529493f69eadee52\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\a559bb3a2926d702a31a9b2a00fcd57ace8ab007\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] D:\ApplicationCache\AVD\.android\build-cache\e1c68809c24dc83281bb4c54a0bb177ae70836a5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml
+		INJECTED from D:\lizhu\company\LXVoice\app\src\main\AndroidManifest.xml

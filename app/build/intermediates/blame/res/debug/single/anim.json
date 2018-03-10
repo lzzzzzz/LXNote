@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

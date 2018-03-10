@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

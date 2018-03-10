@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\52540a4fd51a01e4c08be1283a45818e1e796d7d\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\lizhu\\company\\LXVoice\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\ApplicationCache\\AVD\\.android\\build-cache\\e1c68809c24dc83281bb4c54a0bb177ae70836a5\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    }
+]
